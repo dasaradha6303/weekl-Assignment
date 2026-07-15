@@ -1,0 +1,1 @@
+with hands-on experience in MySQL and SQL query writing. Completed a comprehensive SQL assessment covering data retrieval, filtering, aggregation, joins, sorting, and output prediction using a Flipkart-inspired e-commerce dataset. Passionate about turning data into meaningful insights and continuously expanding skills in SQL, databases, and data analytics.
