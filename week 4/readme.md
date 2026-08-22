@@ -1,4 +1,4 @@
-Completed my **SQL Assessment** today! 🎉
+Completed my **SQL Assessment** today!
 
 This assessment helped me strengthen my understanding of:
 
